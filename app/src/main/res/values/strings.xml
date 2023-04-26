@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title">글로벌 흥행 1억 달러 이상 일본 애니메이션 영화</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="DemonSlayer_title">귀멸의 칼날(2020)</string>
+    <string name="DemonSlayer_director">소토자키 하루오</string>
+    <string name="SpiritedAway_title">센과 치히로의 행방불명(2001)</string>
+    <string name="SpiritedAway_director">미야자치 하야오</string>
+    <string name="YourName_title">너의 이름은.(2016)</string>
+    <string name="YourName_director">신카이 마코토</string>
+    <string name="suzume_title">스즈메의 문단속(2023)</string>
+    <string name="suzume_director">신카이 마코토</string>
+    <string name="OnePiece_title">원피스 필름 레드(2022)</string>
+    <string name="OnePiece_director">타니구치 고로</string>
+    <string name="Howl_title">하울의 움직이는 성(2004)</string>
+    <string name="Howl_director">미야자키 하야오</string>
+    <string name="Ponyo_title">벼량위의 포뇨</string>
+    <string name="Ponyo_director">미야자키 하야오</string>
+    <string name="Jujusukaisen_title">극장판 주술회전0(2021)</string>
+    <string name="Jujusukaisen_director">ArtSpace</string>
+    <string name="WeatheringWithYou_title">날씨의 아이(2019)</string>
+    <string name="WeatheringWithYou_director">신카이 마코토</string>
+    <string name="StandMyMe_title">Stand By Me 도라에몽</string>
+    <string name="StandMyMe_director">야마자키 타다시,야기류이치</string>
+
+</resources>
